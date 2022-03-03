@@ -1,0 +1,9 @@
+name: Timer
+main: com.leontg77.timer.Main
+version: 2.0
+author: LeonTG
+description: This plugin adds a timer that will countdown in the action/boss bar of players.
+
+commands:
+  timer:
+    description: Timer command, check usage.
